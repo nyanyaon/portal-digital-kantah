@@ -1,0 +1,23 @@
+{
+    "version": 8,
+    "name": "MapLibre Demo Tiles",
+    "sprite": "https://demotiles.maplibre.org/styles/osm-bright-gl-style/sprite",
+    "glyphs": "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
+    "sources": {
+        "maplibre-demotiles": {
+            "type": "vector",
+            "url": "https://demotiles.maplibre.org/tiles/tiles.json"
+        }
+    },
+    "layers": [
+        {
+            "id": "coastline",
+            "source": "maplibre",
+            "source-layer": "contries",
+            "type": "line",
+            "paint": {
+                "line-color": "#198EC8"
+            }
+        }
+    ]
+}

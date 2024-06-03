@@ -1,0 +1,20 @@
+.title {
+    color: var(--color-choco);
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 1em;
+}
+
+.label {
+    font-size: 32px;
+    color: var(--color-black);
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 1em;
+}

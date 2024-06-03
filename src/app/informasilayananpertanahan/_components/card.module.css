@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    padding: 1em;
+    border-radius: 10px;
+    background: var(--color-orange);
+    color: var(--color-black);
+    margin-top: 1em;
+}
+
+.btn {
+    background: none;
+    border: 0;
+}
+
+.name {
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.desc {
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.btnContainer {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1em;
+}

@@ -1,0 +1,27 @@
+.text {
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.item {
+    background: linear-gradient(180deg, #FEC32F 0%, #FFB600 100%);
+    padding: 2.25em 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    margin-bottom: 3.44em;
+}
+
+.itemD {
+    background: #676767;
+    color: #fff;
+    padding: 2.25em 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    margin-bottom: 3.44em;
+}

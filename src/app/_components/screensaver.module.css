@@ -1,0 +1,10 @@
+.fullpage {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #6a6a6a;
+    z-index: 30000;
+    display: flex;
+}

@@ -1,0 +1,26 @@
+
+.detail h3 {
+    color: var(--color-black);
+    font-size: 3em;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+.detail h4 {
+    color: var(--color-black);
+    font-size: 2em;
+}
+
+.detail p {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.detail li {
+    color: var(--color-black);
+    font-size: 2em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}

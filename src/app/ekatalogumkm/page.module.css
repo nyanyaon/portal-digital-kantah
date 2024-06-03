@@ -1,0 +1,12 @@
+.catalog {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    background: var(--color-orange);
+    border: 0;
+    padding: 1em;
+    font-size: 1em;
+    position: absolute;
+}
